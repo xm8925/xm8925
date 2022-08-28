@@ -10,14 +10,11 @@
 
 ___
 
-### How to reach me:
+### Connect with me 😊:
 - 👩🏻‍💼 [Linkedin](https://www.linkedin.com/in/yoana-franco-745416235/)
 - 👾 [Discord](https://discord.com/channels/@Yoana_Franco#3019)
-- 💼 [Portfolio](https://xm8925.github.io/Portfolio/)
-- 💌 [Email Me](mailto:yoana.francovargas@gmail.com) 
-
 ___
-### Languages and Frameworks I Know...
+### Languages and Frameworks I Know
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/> <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/> <img src="https://img.icons8.com/dusk/64/000000/css3.png"/> <img src="https://img.icons8.com/ios/50/000000/flask.png"/> <img src="https://img.icons8.com/office/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
 
 - Languages { Javascript, Python, Java, HTML5, CSS }
